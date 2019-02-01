@@ -1,0 +1,4 @@
+baseURL = "https://alexhova.github.io/"
+languageCode = "en-us"
+title = "Alex's Domain"
+theme = "ananke"
