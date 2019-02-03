@@ -1,5 +1,6 @@
 ---
 title: "about"
+description: "this is the \"about\" page where i suppose i'll be telling you about myself and this site"
 ---
 
-This is the "About" page where I suppose I'll be telling you about myself and this site. I like turtles.
+ I like turtles.
