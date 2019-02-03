@@ -3,9 +3,14 @@ baseURL = "https://alexhova.github.io/"
 languageCode = "en-us"
 theme = "ananke"
 
-[params]
-  favicon = ""
+MetaDataFormat = "yaml"
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+googleAnalytics = ""
+enableRobotsTXT = true
 
+[params]
+  favicon = "/images/favicon.png"
   featured_image = "/images/toasters.png"
   background_color_class = "bg-black"
   github = "https://github.com/alexhova"
